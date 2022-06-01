@@ -4,14 +4,13 @@
 <!-- **debbyagestira/debbyagestira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm Debby. Welcome to my GitHub!
-I'm an information systems student who loves to explore and try new things.
+👩‍💻 I'm an information systems student who loves to explore and try new things.
 
-<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Android and Web programming
-<!-- - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: [https://www.linkedin.com/in/debbyagestira/ Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- 💬 Ask me about ...
+- 📫 How to reach me: <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"/>
 
 
 <!-- 
