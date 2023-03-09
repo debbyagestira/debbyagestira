@@ -5,7 +5,8 @@
 
 I'm Debby. Welcome to my GitHub!
 - 👩‍💻 I'm an information systems student who loves to explore and try new things
-- 🌱 I’m currently learning Android development with kotlin
+- 🌱 I’m currently learning to design UI of website or mobile based application
+- ⭐ My hobby is badminton, watching movies, and playing games
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
