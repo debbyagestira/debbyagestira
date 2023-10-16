@@ -4,8 +4,8 @@
 <!-- **debbyagestira/debbyagestira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm Debby. Welcome to my GitHub!
-- 👩‍💻 I'm an information systems student who loves to explore and try new things
-- 🌱 I’m currently learning to design UI of website or mobile based application
+- 👩‍💻 I'm an information systems graduate who loves to explore and try new things
+- 🌱 I’m currently learning Android Development (Kotlin)
 - ⭐ My hobby is badminton, watching movies, and playing games
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
