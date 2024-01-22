@@ -6,11 +6,17 @@
 Hi, I'm Debby. Welcome to my GitHub.
 - 👩‍💻 Loves to explore and try new things
 - 🌱 Currently learning Android Development with Kotlin
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
+  
+My hobbies are
+- 🎧 Listening to music
+- 📖 Reading books
+- 💻 Coding
+- 🎥 Watching movies
 
+Tech Stack:
+- Kotlin
+- PHP
+- JavaScript
 
 <!--
 <p align="left">
