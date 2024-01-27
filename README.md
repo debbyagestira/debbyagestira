@@ -3,7 +3,7 @@
 
 <!-- **debbyagestira/debbyagestira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi, I'm Debby. Welcome to my GitHub.
+I'm Debby. Welcome to my GitHub.
 - 👩‍💻 Loves to explore and try new things
 - 🌱 Currently learning Android Development with Kotlin
   
