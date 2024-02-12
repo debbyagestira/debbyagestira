@@ -14,13 +14,13 @@ My hobbies are
 - 💻 Coding
 - 🎥 Watching movies
 
-
+<!--
 Tech Stacks
 - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<!--
+
 <p align="left">
 <a href="https://github.com/debbyagestira">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=debbyagestira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
